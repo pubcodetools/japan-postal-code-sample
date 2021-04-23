@@ -1,7 +1,7 @@
-package com.github.pubcodetools.sample;
+package io.github.pubcodetools.sample;
 
-import com.github.pubcodetools.japanPostalCode.JapanPostalCodes;
-import com.github.pubcodetools.japanPostalCode.JapanPostalCode;
+import io.github.pubcodetools.japanPostalCode.JapanPostalCodes;
+import io.github.pubcodetools.japanPostalCode.JapanPostalCode;
 
 import java.util.List;
 
